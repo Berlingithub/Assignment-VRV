@@ -126,7 +126,7 @@ Node.js
 npm or yarn
 Installation
 Clone the repository:
-git clone https://github.com/MahindraGamini/VRV-security-assignment
+git clone https://github.com/Berlingithub/Assignment-VRV
 cd VRV assignment 
 Install dependencies:
 npm install
