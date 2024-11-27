@@ -150,7 +150,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/MahindraGamini/VRV-security-assignment
+git clone https://github.com/Berlingithub/Assignment-VRV
 cd VRV-security-assignment
 Install dependencies:
 
